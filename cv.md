@@ -32,6 +32,7 @@ ___
 * Yandex School of Data Analysis: QA Engineer
 * North-Caucasus Federal University: Economist
 * stepik.org
+* htmlacademy.ru
 ___
 ## Languages
 * Russian - Native
