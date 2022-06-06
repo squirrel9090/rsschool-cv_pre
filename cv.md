@@ -18,6 +18,7 @@ ___
 * Postman
 * Charles 
 * DevTools
+* GIT
 ___
 ## Code Example
 ```
