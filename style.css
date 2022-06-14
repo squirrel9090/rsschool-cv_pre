@@ -1,0 +1,49 @@
+hr {
+    border: none; /* Убираем границу для браузера Firefox */
+    color: #ffd900; /* Цвет линии для остальных браузеров */
+    background-color: #ffd900; /* Цвет линии для браузера Firefox и Opera */
+    height: 2px; /* Толщина линии */
+   }
+
+p { 
+    font: Arial;
+ }
+
+aside {
+
+    padding: 10px;
+    width: 100%;
+    height: 80%;
+   }
+
+    ul.nav{
+        margin-left: 0px;
+        padding-left: 0px;
+        list-style: none;
+    }
+    .nav li { 
+        display: inline; 
+    }
+    ul.nav a {
+        display: inline-block;
+        width: 5em;
+        padding:10px;
+        background-color: #f4f4f4;
+        border: solid 1px #ffd900;
+        text-decoration: none;
+        color: #686966;
+        text-align: center;
+    }
+    ul.nav a:hover{
+        background-color: #ffd900;
+        color: #686966;
+    }
+    footer{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 20px;
+        font-size: 0.8rem;
+        background: #686966; 
+        width: 100%;
+    }
